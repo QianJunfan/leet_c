@@ -1,5 +1,3 @@
-#include <stdlib.h>
-
 // Solution 1 - Merge Approach - O(n)
 double findMedianSortedArrays_merge(int* nums1, int size1, int* nums2, int size2) {
     // init.
