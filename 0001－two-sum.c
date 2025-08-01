@@ -25,7 +25,7 @@ int* twoSum_brute_force(int* nums, int numsSize, int target, int* returnSize) {
     return NULL;
 }
 
-// Solution 2 - Hash Tbale Approach - O(n)
+// Solution 2 - Hash Table Approach - O(n)
 #define HASH_SIZE 10000
 
 typedef struct HashNode {
